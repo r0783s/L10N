@@ -522,4 +522,5 @@
     <string name="toast_fyber_success">You have earned %d Coins!</string>
     <string name="toast_fyber_timeout">The Coins will be credited to your account in a few minutes.</string>
     <string name="toast_fyber_failure">The ad failed to be shown.</string>
+    <string name="fragment_dialog_shoucash_generating">Generating Coins...</string>
 </resources>
